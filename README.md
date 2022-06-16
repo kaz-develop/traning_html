@@ -1,2 +1,2 @@
 # traning_html
-htmlの勉強用
+for traning
